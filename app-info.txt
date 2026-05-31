@@ -1,2 +1,2 @@
-title: WeatherApp
-description: An app I made for practice.
+title: 天気アプリ
+description: 練習で作ったアプリ。
