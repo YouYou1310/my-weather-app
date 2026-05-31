@@ -1,2 +1,2 @@
 title: WeatherApp
-description: It's practice.
+description: An app I made for practice.
