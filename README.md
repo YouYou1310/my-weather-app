@@ -1,4 +1,4 @@
 # my-weather-app
-weather app
+天気アプリ
 
-Created using AI Vibe Coding
+AIバイブコーディングで作成。
